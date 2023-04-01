@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh Darla.</h1>
-<h3 align="center">As a B.Tech student in Data Science, I am an enthusiastic developer hailing from India!</h3>
+<h3 align="center">I am a Data Science student from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh1435&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh1435" /> </p>
 
@@ -29,5 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh1435&show_icons=true&locale=en" alt="santhosh1435" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh1435&" alt="santhosh1435" /></p>
+
 
 
